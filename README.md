@@ -7,7 +7,8 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/230px-Tensorflow_logo.svg.png?20170429160244" style="padding-right:10px;" />]()
+[<img align="left" alt="Pytorch" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpytorch.org%2F&psig=AOvVaw2yGtTQGcS-MB9aRLhd_J6f&ust=1675433746042000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjsg5yD9_wCFQAAAAAdAAAAABAE" style="padding-right:10px;" />]()
+[<img align="left" alt="TF" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/230px-Tensorflow_logo.svg.png?20170429160244" style="padding-right:10px;" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
