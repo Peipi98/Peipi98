@@ -1,6 +1,6 @@
 # Hi there, I'm Peppe!
 
-![GitHub User's stars](https://img.shields.io/github/stars/peipi98?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/peipi98?affiliations=OWNER,COLLABORATOR&style=social)
 
 - 👀 I'm interested in Technology, Machine Learning, Engineering
 - 💻 I will start my Master's Thesis in AUDI AG in April
