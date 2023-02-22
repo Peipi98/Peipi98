@@ -1,5 +1,7 @@
 # Hi there, I'm Peppe!
 
+![GitHub User's stars](https://img.shields.io/github/stars/peipi98?style=social)
+
 - 👀 I'm interested in Technology, Machine Learning, Engineering
 - 💻 I will start my Master's Thesis in AUDI AG in April
 - 📚 I'm enrolled in the 2nd year of **MSc in Artificial Intelligence and Data Analytics** at [Politecnico di Torino](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2022&p_sdu=37&p_cds=18&p_ori=13086)
@@ -23,7 +25,6 @@
 
 <br />
 <br />
-![GitHub User's stars](https://img.shields.io/github/stars/peipi98?style=social)
 
 ---
 
